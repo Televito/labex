@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-id="ucv.cl" tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD | Valparaíso
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rzv06Mv.png, Canal 2 | HD | Quellón
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzv06Mv.png", Canal 2 | HD | Quellón
 https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
 #EXTINF: -1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png", Deutsche Welle Español | FHD | Alemania
